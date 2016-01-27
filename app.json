@@ -1,13 +1,13 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
-  "repository": "https://github.com/TelescopeJS/sample-project/",
+  "name": "100Reasons",
+  "description": "100 Choses géniales quand on croit que la Bible est vraie et que Jésus-Christ est Dieu",
+  "repository": "https://github.com/alphaouedraogo/onehundredreasons.git",
   "logo": "http://www.telescopeapp.org/images/logo.png",
-  "keywords": ["meteor", "social", "community"],
+  "keywords": ["100", "raisons", "génial", "Bible", "Jésus", "Christ", "vie"],
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
-      "description": "The full URL of your Telescope app (by default, http://appname.herokuapp.com)."
+      "description": "http://onehundredreasons.herokuapp.com"
     }
   },
   "addons": [
