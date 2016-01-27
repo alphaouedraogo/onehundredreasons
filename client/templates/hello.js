@@ -1,3 +1,4 @@
+/*
 Template.hello.helpers({
   name: function () {
     if (Meteor.user()) {
@@ -7,3 +8,4 @@ Template.hello.helpers({
     }
   }
 });
+*/
